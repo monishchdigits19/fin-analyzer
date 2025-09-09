@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Automated Financial Statement Analyzer (Beginner-friendly, ready-to-run)
+Automated Financial Statement Analyzer 
 
 What this does:
 - Reads a text file (.txt) or text-based PDF (.pdf) containing financial statements.
