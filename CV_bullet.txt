@@ -1,1 +1,0 @@
-Automated Financial Statement Analyzer (Python) - Built a tool that extracts financial line items, computes ratios, and outputs JSON/CSV/HTML reports. Tech: Python, pdfplumber (optional).
