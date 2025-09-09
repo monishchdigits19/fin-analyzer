@@ -1,0 +1,27 @@
+Item,Value
+Revenue,-178200000.0
+Cost of Goods Sold,-178200000.0
+Gross Profit,532850000.0
+Operating Income,367275000.0
+Net Income,270075000.0
+Cash and Equivalents,206550000.0
+Inventory,134600000.0
+Total Assets,2020075000.0
+Current Assets,22900000.0
+Short Term Debt,50000000.0
+Long Term Debt,410000000.0
+Total Liabilities,1923877000.0
+Current Liabilities,35125000.0
+Equity,1923877000.0
+
+Ratio,Value
+gross_margin,-2.990179573512907
+operating_margin,-2.061026936026936
+net_margin,-1.5155723905723906
+current_ratio,0.6519572953736655
+debt_to_equity,1.0
+roe,0.14038059605681652
+roa,0.13369553110651833
+
+Flags
+Current ratio < 1 — potential short-term liquidity concern

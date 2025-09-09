@@ -1,0 +1,5 @@
+Revenue: 1200000
+Net Income: 250000
+Total Assets: 5000000
+Liabilities: 2000000
+Equity: 3000000

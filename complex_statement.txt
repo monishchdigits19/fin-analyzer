@@ -1,0 +1,59 @@
+ACME CORPORATION
+Consolidated Financial Statements
+For the year ended December 31, 2024 (in thousands, except per-share data)
+
+INCOME STATEMENT
+Revenue.............................................................. 1,245,300
+Cost of goods sold (COGS)...........................................  (712,450)
+Gross profit.......................................................   532,850
+Research and development...........................................   (45,200)
+Selling, general & administrative..................................   (120,375)
+Operating income (loss)............................................   367,275
+Other income (expense), net........................................     3,450
+Interest expense...................................................    (12,800)
+Income before income taxes.........................................   357,925
+Provision for income taxes.........................................    (87,850)
+Net income (loss) attributable to shareholders......................   270,075
+
+BALANCE SHEET (as at Dec 31)
+Assets
+Cash and cash equivalents..........................................   102,450
+Marketable securities..............................................    48,300
+Accounts receivable, net...........................................   210,125
+Inventories........................................................   134,600
+Prepaid expenses and other current assets..........................    12,700
+Total current assets...............................................   508,175
+Property, plant and equipment, net................................ 1,150,300
+Goodwill and intangible assets, net.................................   320,450
+Deferred tax assets................................................    18,250
+Other non-current assets...........................................    22,900
+Total assets (note)................................................ 2,020,075
+
+Liabilities and Shareholders' Equity
+Accounts payable...................................................   145,400
+Accrued expenses...................................................    62,350
+Current portion of long-term debt..................................    25,000
+Total current liabilities..........................................   232,750
+Long-term debt, net of current portion.............................   410,000
+Deferred tax liabilities...........................................    28,500
+Other non-current liabilities......................................    35,125
+Total liabilities..................................................   706,375
+Common stock, $0.01 par value, 200,000 shares authorized...........       2
+Additional paid-in capital..........................................   540,000
+Retained earnings..................................................   680,500
+Accumulated other comprehensive loss..............................    (3,000)
+Total shareholders' equity........................................ 1,217,502
+Total liabilities and shareholders' equity......................... 1,923,877
+
+NOTES
+(1) All amounts are presented in thousands of US dollars.
+(2) Certain comparative amounts have been reclassified to conform to current period presentation.
+
+OTHER DATA (for testing scattered numbers)
+Total revenue for the quarter ending Sep 30, 2024: $312,500
+Cost of sales Q3 2024: (178,200)
+Operating cash flow for fiscal 2024: 295,000
+Capital expenditures 2024: 88,450
+Free cash flow (approx): 206,550
+Short-term borrowings: 50,000
+Long-term borrowings: 375,000
